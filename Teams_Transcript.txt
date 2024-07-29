@@ -1,0 +1,86 @@
+Transcript: Interviewer Questions in Teams Meeting
+
+Hamza: IT and OT assets security policy. Every licensee, registration holder, and generation company connected to the national grid shall develop or adopt, implement, and regularly review, at least once in every three years, and update IT and OT assets security policy, manuals, and related standard operating procedures.
+
+Saad: Our IT and OT assets security policy is designed to provide comprehensive security measures for both our IT and operational technology assets. It includes procedures for maintaining and categorizing assets, protecting systems from unauthorized access, and ensuring data integrity, confidentiality, and authenticity. We review and update our IT and OT assets security policy at least once every three years to keep it aligned with the latest security standards and practices.
+
+Hamza: Define and put in place an appropriate management structure with required skills and qualifications for developing, maintaining, reviewing, and updating the information security framework, and particularly hire qualified cybersecurity individuals and appoint a Chief Information Security Officer (CISO).
+
+Interviewee: We have a team of qualified cybersecurity professionals, including a Chief Information Security Officer (CISO) who leads our information security efforts.
+
+Interviewer: Provide for the maintenance of inventory and categorization of IT and OT assets.
+
+Interviewee: We maintain a comprehensive inventory and categorization of our IT and OT assets through regular audits and updates, ensuring that all assets are accurately tracked and classified according to their criticality and function.
+
+Interviewer: Provide for enhancement of security of IT and OT assets, particularly critical infrastructure.
+
+Interviewee: We implement robust security measures such as firewalls, intrusion detection systems, and encryption to enhance the security of our IT and OT assets. We also conduct regular vulnerability assessments and continuous monitoring to protect our critical infrastructure.
+
+Interviewer: Provide mechanisms to protect systems from unauthorized access, to ensure integrity, confidentiality, and authenticity of data and systems.
+
+Interviewee: We use advanced security technologies, including multi-factor authentication, encryption, and access controls, to protect our systems from unauthorized access and to ensure the integrity, confidentiality, and authenticity of our data and systems.
+
+Interviewer: Provide guidelines for the acquisition of information technology IT and OT assets.
+
+Interviewee: Our guidelines for acquiring IT and OT assets involve conducting thorough risk assessments, ensuring compliance with industry standards, and verifying that all new assets meet our stringent security requirements before integration.
+
+Interviewer: Contain provisions for reliability and availability of information systems and data and maintaining operational effectiveness.
+
+Interviewee: We ensure reliability and availability through redundant systems, regular data backups, and failover mechanisms. These measures help us maintain operational effectiveness and minimize downtime.
+
+Interviewer: Provide for accountability by incorporating standard operating procedures, policies, and controls to enable traceability of all operations and identification of the system user at the relevant time.
+
+Interviewee: We have detailed standard operating procedures, policies, and controls that ensure accountability and traceability by logging all user activities, assigning unique user identifiers, and regularly reviewing access logs.
+
+Interviewer: Provide for the formulation, roles, and responsibilities of the Security Advisory Committee (SAC).
+
+Interviewee: We formulate the roles and responsibilities of the Security Advisory Committee (SAC) based on our security policy requirements. The SAC oversees security initiatives, conducts risk assessments, and provides strategic guidance on cybersecurity matters.
+
+Interviewer: Provide the requirements for regular monitoring of security controls, responding to security incidents, mitigating the risks and vulnerabilities in IT and OT assets.
+
+Interviewee: Our requirements for regular monitoring include continuous surveillance using automated tools and predefined incident response plans to quickly address and mitigate any security incidents.
+
+Interviewer: Provide for patch and change management.
+
+Interviewee: We manage patch and change management processes by regularly updating software and systems, thoroughly testing updates before deployment, and documenting all changes to ensure stability and security.
+
+Interviewer: Provide for conducting regular audits, security risk assessment, and management thereof.
+
+Interviewee: We conduct regular audits and security risk assessments at least annually, and more frequently if needed, to identify and address potential vulnerabilities.
+
+Interviewer: Adequately cover any gaps identified by it through a gap analysis and enable appropriate controls.
+
+Interviewee: We address gaps identified through gap analysis by implementing appropriate controls, updating our policies, and conducting follow-up assessments to ensure all issues are resolved.
+
+Interviewer: Provide requirements and processes for evaluating employees, contractors, and other relevant stakeholders for potential risks.
+
+Interviewee: We evaluate employees, contractors, and other stakeholders for potential risks through background checks, regular security training, and ongoing monitoring of their activities.
+
+Interviewer: Define a business continuity plan to ensure service continuity in case of any incident.
+
+Interviewee: Our business continuity plan includes procedures for maintaining critical operations, data backups, and recovery strategies to ensure minimal disruption in the event of an incident.
+
+Interviewer: Provide for data disposal procedures and requirements that avoid any unauthorized access or use of such data.
+
+Interviewee: We have strict data disposal procedures, including secure deletion methods and physical destruction of storage media, to prevent unauthorized access or use of disposed data.
+
+Interviewer: Promote a culture of cybersecurity awareness within the organization and channels for training and awareness of the employees and contractors.
+
+Interviewee: We promote cybersecurity awareness through regular training sessions, awareness campaigns, and providing resources and guidelines to all employees and contractors.
+
+Interviewer: Provide for the establishment of channels of communication for sharing any critical information relating to a threat to the power sector, ensuring that any information shared in this regard is kept confidential.
+
+Interviewee: We establish secure communication channels for sharing critical information through encrypted platforms, regular meetings, and collaboration with industry partners and regulatory bodies. We ensure confidentiality by using encrypted communication channels and restricting access to authorized personnel only.
+
+Interviewer: Provide a mechanism for seamlessly implementing the guidelines from PowerCert and/or the Authority.
+
+Interviewee: We implement guidelines from PowerCert and/or the Authority by integrating them into our security policies, conducting regular compliance checks, and ensuring all employees adhere to these guidelines.
+
+Interviewer: Report any significant threat or attack in real-time to the Authority's designated officer and PowerCERT.
+
+Interviewee: We report significant threats or attacks in real-time through a dedicated incident response team that notifies the Authority's designated officer and PowerCERT via predefined communication protocols.
+
+Interviewer: Provide for the implementation of any other guidelines or directives issued by the Authority or PowerCERT in the interest of ensuring the protection of the power sector in general and any part thereof in particular.
+
+Interviewee: We have mechanisms to implement other guidelines or directives by continuously monitoring updates, integrating them into our security framework, and providing training to ensure compliance.
+

@@ -1,0 +1,50 @@
+4. IT and OT assets security policy.— (1) Every licensee, registration holder and
+a generation company connected to national grid shall develop or adopt, implement and
+regularly review (at least once in every three years) and update IT and OT assets security
+policy, manuals and related standard operating procedures.
+
+(2) The IT and OT assets security policy and manuals of a licensee, registration
+holder and generation company shall:
+
+(a) define and put in place appropriate management structure with required skills and
+qualifications for developing, maintaining, reviewing, and updating the information
+security framework, and particularly hire qualified cyber security individuals and
+appoint Chief Information Security Officer (CISO);
+(b) provide for maintenance of inventory and categorization of IT and OT assets;
+(c) provide for enhancement of security of IT and OT assets, particularly critical
+infrastructure;
+(d) provide mechanisms to protect its systems from unauthorized access, to ensure
+integrity, confidentiality and authenticity of data and systems;
+(e) provide guidelines for acquisition of information technology IT and OT assets;
+(f) contain prOvisions for reliability and availability of information systems and data
+and maintaining operational effectiveness;
+(g) provide for accountability by incorporation of standard operating procedures,
+policies and controls to enable traceability of all operations and identification of the
+system user at the relevant time;
+(h) provide for formulation, roles and responsibilities of the Sac;
+(I) provide the requirements for regular monitoring of security controls, responding to
+the security incidents, mitigating the risks and vulnerabilities in IT and OT assets;
+(j) provide for patch and change management;
+(k) provide for conducting regular audits, security risk assessment and management
+thereof
+(L) adequately cover any gaps identified by it through a gap analysis and enable
+appropriate controls
+(m) provide requirements and processes for evaluating employees, contractors and
+other relevant stakeholders for potential risks
+(n) define a business continuity plan to ensure service continuity iii case of any
+incident
+(o) provide for data disposal procedures and requirements that avoid any
+unauthorized access or use of such data;
+(p) promote a culture of cyber-security awareness within the organization and
+channels for training and awareness of the employees and contractors;
+(q) provide for establishment of channels of communications for sharing of any critical
+information relating to a threat to the power sector:
+Provided that it shall be ensured that any information shared in this regard
+is kept confidential;
+(r) provide mechanism for seamlessly implementing the guidelines from PowerCert
+and/or the Authority;
+(s) reporting of any significant threat or attack in real time to the Authority's designated
+officer and PowerCERT; and
+(t) provide for implementation of any other guidelines or directives issued by the
+Authority or PowerCERT in the interest of ensuring protection of power sector in
+general and any part thereof in particular. 
